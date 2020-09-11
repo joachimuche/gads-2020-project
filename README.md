@@ -1,1 +1,1 @@
-# gads-2020-project
+# Joachim gads 2020 project submissions
